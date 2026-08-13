@@ -4,10 +4,10 @@
 # Installation instructions
 If you haven't already, download the latest version of the resource pack from [Modrinth](https://modrinth.com/resourcepack/undotted-sulfur-cubes/versions).
 
-Open Minecraft Java Edition on the device where you downloaded the resource pack. Once it has loaded, press "Options…", then press "Resource Packs…". You should see a page showing you all the resource packs you've installed. Press "Open Pack Folder" to open your file explorer, then open a second window in your file explorer and navigate to where you downloaded the resource pack. Drag that resource pack into the first window, then return to Minecraft. Somewhere in the "Available" resource packs list, you'll find Undotted Sulfur Cubes. Press the right arrow above its icon, then press "Done".
+Open Minecraft Java Edition on the device where you downloaded the resource pack. Once it has finished loaded, press "Options…", then press "Resource Packs…". You should see a page showing you all the resource packs you've installed. Press "Open Pack Folder" to open your file explorer, then open a second window in your file explorer and navigate to where you downloaded the resource pack. Drag that resource pack into the first window, then return to Minecraft. Somewhere in the "Available" resource packs list, you'll find Undotted Sulfur Cubes. Press the right arrow above its icon, then press "Done".
 
 # How did I create it?
-I simply extracted the textures from [Minecraft](https://www.minecraft.net/)'s 26.2 JAR and edited the textures using [Pixelorama](https://pixelorama.org/).
+I simply extracted the textures from the [Minecraft](https://www.minecraft.net/) 26.2 JAR and edited the textures using [Pixelorama](https://pixelorama.org/).
 To maintain color accuracy, I used the eyedropper tool and erased pixels before overwriting them.
 
 # My issue wasn't fixed!
