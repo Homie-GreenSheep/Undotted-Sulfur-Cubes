@@ -9,3 +9,6 @@ To maintain accuracy with colors, I used the eyedropper tool and erased pixels b
 [KHInsider Referral](https://downloads.khinsider.com/?u=3251699)
 
 [Dropbox Referral](https://www.dropbox.com/referrals/AAAwCQJkGONfvpVtk0Qauiz1GZWfwX6lq5E?src=global9)
+
+# The licenses don't match!
+I wasn't able to find the exact same license in GitHub, so I simply chose a license I thought was close enough.
