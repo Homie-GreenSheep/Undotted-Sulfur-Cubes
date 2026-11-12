@@ -13,8 +13,10 @@ To maintain color accuracy, I used the eyedropper tool and erased pixels before 
 # My issue wasn't fixed!
 I'm not really maintaining the resource pack very much. Just wait a while.
 
-# Help me out if you want to
+# Referrals
 [KHInsider Referral](https://downloads.khinsider.com/?u=3251699)
+
+[Mediafire Referral](https://www.mediafire.com/?erwkmil)
 
 [Dropbox Referral](https://www.dropbox.com/referrals/AAAwCQJkGONfvpVtk0Qauiz1GZWfwX6lq5E?src=global9)
 
